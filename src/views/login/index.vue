@@ -1,7 +1,7 @@
 <template>
   <div class="login">
     <!-- 表单 -->
-    <el-card class="form-card" style="opacity:0.6">
+    <el-card class="form-card" style="opacity:0.8;background-color:transparent;">
       <!-- logo图标 -->
       <div class="logo">
         <img src="../../assets/logo_index.png" alt />
