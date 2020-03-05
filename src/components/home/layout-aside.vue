@@ -15,7 +15,7 @@
       <el-submenu>
         <template slot="title">
           <i class="el-icon-s-operation"></i>
-          <span>内容管理</span>
+          <span>二.内容管理</span>
         </template>
         <el-menu-item>发布文章</el-menu-item>
         <el-menu-item>内容</el-menu-item>
@@ -26,7 +26,7 @@
       <el-submenu>
         <template slot="title">
           <i class="el-icon-menu"></i>
-          <span>粉丝管理</span>
+          <span>三.粉丝管理</span>
         </template>
         <el-menu-item>粉丝1</el-menu-item>
         <el-menu-item>粉丝2</el-menu-item>
@@ -35,7 +35,7 @@
       </el-submenu>
       <el-menu-item>
         <i class="el-icon-s-custom"></i>
-        <span>三.账户</span>
+        <span>四.账户</span>
       </el-menu-item>
     </el-menu>
   </div>
